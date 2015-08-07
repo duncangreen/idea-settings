@@ -18,4 +18,4 @@ class NonEmptySet(elem: Int, left: IntSet, right: IntSet) extends IntSet {
     if (x < elem) left contains x
     else if (x > elem) right contains x
     else true
-}
+} 

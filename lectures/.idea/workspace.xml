@@ -32,8 +32,8 @@
       <file leaf-file-name="week3.sc" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/week3.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2783203" vertical-offset="0" max-vertical-offset="1024">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.29296875" vertical-offset="0" max-vertical-offset="1024">
+              <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -529,12 +529,12 @@
       <option name="number" value="Default" />
       <updated>1438973896469</updated>
       <workItem from="1438973897833" duration="41000" />
-      <workItem from="1438973953418" duration="694000" />
+      <workItem from="1438973953418" duration="1290000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="735000" />
+    <option name="totallyTimeSpent" value="1331000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="-744" width="1920" height="1178" extended-state="6" />
@@ -594,8 +594,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/scala/week3.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2783203" vertical-offset="0" max-vertical-offset="1024">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.29296875" vertical-offset="0" max-vertical-offset="1024">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
           <folding />
         </state>
       </provider>
