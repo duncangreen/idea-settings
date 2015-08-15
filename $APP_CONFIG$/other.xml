@@ -1,0 +1,135 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeDependencyConfig">
+    <option name="MODULE_GRAPH_LIBRARY_VISIBILITY" value="true" />
+    <option name="PACKAGE_GRAPH_LIBRARY_VISIBILITY" value="true" />
+    <option name="CLASS_GRAPH_LIBRARY_VISIBILITY" value="true" />
+    <option name="CLASS_GRAPH_EXCEPTION_VISIBILITY" value="true" />
+    <option name="CLASS_NEIGHBOR_GRAPH_LIBRARY_VISIBILITY" value="true" />
+    <option name="CLASS_NEIGHBOR_GRAPH_TEST_VISIBILITY" value="true" />
+    <option name="CLASS_NEIGHBOR_GRAPH_EXCEPTION_VISIBILITY" value="true" />
+    <option name="CLASS_NEIGHBOR_GRAPH_DEPENDENCY_VISIBILITY" value="true" />
+    <option name="CLASS_NEIGHBOR_GRAPH_DEPENDENT_VISIBILITY" value="true" />
+    <option name="CLASS_NEIGHBOR_GRAPH_CROSSLINK_VISIBILITY" value="true" />
+    <option name="PACKAGE_NEIGHBOR_GRAPH_LIBRARY_VISIBILITY" value="true" />
+    <option name="PACKAGE_NEIGHBOR_GRAPH_DEPENDENCY_VISIBILITY" value="true" />
+    <option name="PACKAGE_NEIGHBOR_GRAPH_DEPENDENT_VISIBILITY" value="true" />
+    <option name="PACKAGE_NEIGHBOR_GRAPH_CROSSLINK_VISIBILITY" value="true" />
+    <option name="MODULE_NEIGHBOR_GRAPH_LIBRARY_VISIBILITY" value="true" />
+    <option name="MODULE_NEIGHBOR_GRAPH_DEPENDENCY_VISIBILITY" value="true" />
+    <option name="MODULE_NEIGHBOR_GRAPH_DEPENDENT_VISIBILITY" value="true" />
+    <option name="MODULE_NEIGHBOR_GRAPH_CROSSLINK_VISIBILITY" value="true" />
+    <option name="CALCULATE_METRICS_CYCLES" value="true" />
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="CppTools.Settings" gccPath="gcc" clangPath="clang" msvcdir="c:\Program Files\Microsoft Visual Studio .NET 2012\vc10" defines="WIN32;NDEBUG;_WINDOWS;_MBCS;_AFXDLL;_WIN32" launchGdbOnFailureCommand="/usr/X11/bin/xterm -e $gdb$ --directory=&quot;~/CF-C&quot;" gdbPath="gdb" />
+  <component name="DebuggerSettings">
+    <option name="TRACING_FILTERS_ENABLED" value="true" />
+    <option name="FORCE_CLASSIC_VM" value="true" />
+    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
+    <option name="SKIP_CLASSLOADERS" value="true" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
+    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
+    <filter>
+      <option name="PATTERN" value="com.sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="java.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="javax.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.omg.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="junit.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.intellij.rt.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.yourkit.runtime.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+  </component>
+  <component name="DependencyUISettings">
+    <option name="UI_FLATTEN_PACKAGES" value="false" />
+    <option name="UI_SHOW_MODULES" value="false" />
+  </component>
+  <component name="DuplocatorSettings">
+    <option name="DISTINGUISH_METHODS" value="false" />
+    <option name="DISTINGUISH_TYPES" value="false" />
+    <option name="LOWER_BOUND" value="14" />
+    <option name="SELECTED_PROFILES">
+      <set>
+        <option value="Java" />
+      </set>
+    </option>
+    <option name="LAST_SELECTED_LANGUAGE" value="Java" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/projects/feedback-pipeline/venv/bin/python2.7" value="true" />
+        <entry key="/usr/bin/python" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_PARAMETER_REPLACE_FIELDS_WITH_GETTERS" value="1" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_CONSTANT_MOVE_TO_ANOTHER_CLASS" value="true" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Ignore spaces" />
+</application>
