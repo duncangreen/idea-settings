@@ -1,5 +1,6 @@
 <scheme name="Solarized Dark" version="141" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
+
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Monaco" />
   <colors>
