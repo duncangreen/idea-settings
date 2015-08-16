@@ -39,23 +39,6 @@
         <option name="FOREGROUND" value="657b83" />
       </value>
     </option>
-    <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="1e6a80" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="DEFAULT_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="1c7a80" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="DEFAULT_NUMBER">
-      <value>
-        <option name="FOREGROUND" value="3c75ff" />
-      </value>
-    </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value />
     </option>
@@ -146,6 +129,12 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PROPERTIES.LINE_COMMENT">
+      <value />
+    </option>
+    <option name="PROPERTIES.VALID_STRING_ESCAPE">
+      <value />
+    </option>
     <option name="PROPERTIES.VALUE">
       <value />
     </option>
@@ -155,7 +144,13 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="REGEXP.BAD_CHARACTER">
+      <value />
+    </option>
     <option name="REGEXP.CHAR_CLASS">
+      <value />
+    </option>
+    <option name="REGEXP.COMMENT">
       <value />
     </option>
     <option name="REGEXP.ESC_CHARACTER">

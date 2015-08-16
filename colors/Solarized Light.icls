@@ -135,6 +135,12 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PROPERTIES.LINE_COMMENT">
+      <value />
+    </option>
+    <option name="PROPERTIES.VALID_STRING_ESCAPE">
+      <value />
+    </option>
     <option name="PROPERTIES.VALUE">
       <value />
     </option>
@@ -144,7 +150,13 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="REGEXP.BAD_CHARACTER">
+      <value />
+    </option>
     <option name="REGEXP.CHAR_CLASS">
+      <value />
+    </option>
+    <option name="REGEXP.COMMENT">
       <value />
     </option>
     <option name="REGEXP.ESC_CHARACTER">
