@@ -3,12 +3,14 @@
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Monaco" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="" />
+    <option name="ADDED_LINES_COLOR" value="143b57" />
     <option name="ANNOTATIONS_COLOR" value="2b36" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="" />
+    <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="73642" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b36" />
+    <option name="DELETED_LINES_COLOR" value="510817" />
     <option name="FILESTATUS_ADDED" value="88834b" />
     <option name="FILESTATUS_COPIED" value="9ce0" />
     <option name="FILESTATUS_DELETED" value="465b5e" />
@@ -33,7 +35,7 @@
     <option name="INDENT_GUIDE" value="" />
     <option name="LINE_NUMBERS_COLOR" value="586e75" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
-    <option name="MODIFIED_LINES_COLOR" value="" />
+    <option name="MODIFIED_LINES_COLOR" value="1a4630" />
     <option name="NOTIFICATION_BACKGROUND" value="fdf6e3" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="" />
@@ -41,6 +43,7 @@
     <option name="SELECTED_TEARLINE_COLOR" value="" />
     <option name="TEARLINE_COLOR" value="73642" />
     <option name="WHITESPACES" value="ffffff" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="29a7ae" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
@@ -67,6 +70,13 @@
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
         <option name="FOREGROUND" value="657b83" />
+      </value>
+    </option>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="23c3ff" />
+        <option name="EFFECT_COLOR" value="ff" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -182,7 +192,7 @@
     </option>
     <option name="JAVA_NUMBER">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="fb5916" />
       </value>
     </option>
     <option name="JAVA_STRING">
@@ -257,7 +267,7 @@
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="d33682" />
+        <option name="FOREGROUND" value="f8409d" />
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
