@@ -1,5 +1,8 @@
 <application>
   <component name="UISettings">
     <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
+    <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
   </component>
 </application>
