@@ -52,6 +52,12 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="BAD_CHARACTER">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffcccc" />
+      </value>
+    </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="73642" />
@@ -113,6 +119,30 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="970ff" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DIFF_CONFLICT">
+      <value>
+        <option name="BACKGROUND" value="231e1e" />
+        <option name="ERROR_STRIPE_COLOR" value="ffc8bd" />
+      </value>
+    </option>
+    <option name="DIFF_DELETED">
+      <value>
+        <option name="BACKGROUND" value="1b1b1b" />
+        <option name="ERROR_STRIPE_COLOR" value="242424" />
+      </value>
+    </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="2f3a2f" />
+        <option name="ERROR_STRIPE_COLOR" value="aadeaa" />
+      </value>
+    </option>
+    <option name="DIFF_MODIFIED">
+      <value>
+        <option name="BACKGROUND" value="2c2f35" />
+        <option name="ERROR_STRIPE_COLOR" value="101216" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
