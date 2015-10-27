@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="JustJava" />
-    <option name="defaultScopeName" value="JustJava" />
+    <option name="customScope" value="Project 'news-stories-service'" />
+    <option name="defaultScopeName" value="Project 'news-stories-service'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="JustJava" />
+    <option name="SEARCH_SCOPE" value="Project 'news-stories-service'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
